@@ -1,0 +1,9 @@
+h5py==3.9.0
+matplotlib==3.7.2
+numpy==1.25.2
+Pillow==10.0.0
+scipy==1.11.2
+super_image==0.1.7
+torch==2.0.1
+torchsummary==1.5.1
+tqdm==4.66.1
