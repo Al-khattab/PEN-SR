@@ -1,0 +1,21 @@
+checkpoint x4
+checkpoint
+bicubic_results
+bi
+baseline_results
+.ipynb_checkpoints
+__pycache__
+high_res
+low_res
+PEN_results
+PEN_results
+runs
+pics
+SRCNN
+srcnn_results
+best_PEN.pth
+bicubic_model-Copy1.py
+bicubic_model.py
+bicubic_run.py
+model_epoch_770.pth
+runog.py
