@@ -10,8 +10,8 @@
   <a href="#Description">Description</a> •
   <a href="#Features">Features</a> •
   <a href="#Performance">Performance</a> •
-  <a href="#How To Use">How To Use</a> •
-  <a href="#Downloading pre-trained weights">Download weights</a> •
+  <a href="#How-To-Use">How To Use</a> •
+  <a href="#Downloading-pre-trained-weights">Download weights</a> •
   <a href="#Acknowledgments">Acknowledgments</a> •
   <a href="#license">License</a>
 </p>
